@@ -3,7 +3,6 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import GlobalStyles from "./styles/globalStyles";
 import Header from "./components/Header/Header";
-import Footer from "./components/Footer/Footer";
 
 import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
@@ -20,7 +19,6 @@ function App() {
           <Route path="/entrar" element={<Entrar />} />
           <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
-        <Footer />
       </BrowserRouter>
     </div>
   );
