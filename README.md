@@ -3,7 +3,7 @@
 ![Tasks](https://user-images.githubusercontent.com/35041924/94459891-56500280-018e-11eb-8ce1-35e4f696dfd3.png)
 ***Página inicial do Tasks***
 
-> O FindMusic é uma page feita para você pesquisar sobre suas bandas preferidas.
+> O Tasks é uma page feita para você organizar suas tarefas.
 
 
 ## Pré-requisitos
